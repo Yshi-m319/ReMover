@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Shootable
+  - Bullet
+  - MuteObject
+  - SoundWave
+  - TuningFork
+  - Metal
+  - Speaker
+  - SE
+  - BGM
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Lighting
+  - Ground
+  - Postprocessing
+  - Bullet
+  - Film
+  - Player
+  - PlayerPassable
+  - DynamicFloor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Fire
+    uniqueID: 3804908061
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Chladni
+    uniqueID: 3141208221
+    locked: 0
